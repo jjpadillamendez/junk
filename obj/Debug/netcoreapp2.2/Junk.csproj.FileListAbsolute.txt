@@ -1,0 +1,11 @@
+C:\Users\jesus\Junk\bin\Debug\netcoreapp2.2\Junk.deps.json
+C:\Users\jesus\Junk\bin\Debug\netcoreapp2.2\Junk.runtimeconfig.json
+C:\Users\jesus\Junk\bin\Debug\netcoreapp2.2\Junk.runtimeconfig.dev.json
+C:\Users\jesus\Junk\bin\Debug\netcoreapp2.2\Junk.dll
+C:\Users\jesus\Junk\bin\Debug\netcoreapp2.2\Junk.pdb
+C:\Users\jesus\Junk\obj\Debug\netcoreapp2.2\Junk.csprojAssemblyReference.cache
+C:\Users\jesus\Junk\obj\Debug\netcoreapp2.2\Junk.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Junk\obj\Debug\netcoreapp2.2\Junk.AssemblyInfoInputs.cache
+C:\Users\jesus\Junk\obj\Debug\netcoreapp2.2\Junk.AssemblyInfo.cs
+C:\Users\jesus\Junk\obj\Debug\netcoreapp2.2\Junk.dll
+C:\Users\jesus\Junk\obj\Debug\netcoreapp2.2\Junk.pdb

@@ -6,7 +6,7 @@ namespace Junk
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Club America vs Leon sunday");
+            Console.WriteLine("Club America 2-1 Leon");
             Console.Read();
         }
     }
